@@ -72,9 +72,9 @@ Technologies Used
 
     Programming Languages: C#,BOOTSTRAP, JavaScript
     Frameworks: ASP.(NET)
-    Database: MY_SQL
+    Database: Microsoft SQL Server
     Version Control: Git
-    Deployment: Docker, Kubernetes
+    
 
 Installation
 
